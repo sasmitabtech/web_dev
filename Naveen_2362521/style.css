@@ -1,0 +1,23 @@
+#weather-container {
+    text-align: center;
+    padding: 20px;
+}
+
+#city-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#fetch-weather {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#weather-info p {
+    margin: 10px 0;
+}
